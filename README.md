@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jino Dev</h1>
-<h3 align="center">A passionate Software Engineering from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="image" width="400"  src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8zjBVxZbyZp4jkysj9A7rbiZFuX%2f3ygqFUSewIRojlI%3d"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjin&label=Profile%20views&color=0e75b6&style=flat" alt="devjin" /> </p>
