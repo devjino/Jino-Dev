@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jino Dev</h1>
 <h3 align="center">A passionate Software Engineering from India</h3>
+<img align="right" alt="image" width="400"  src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8zjBVxZbyZp4jkysj9A7rbiZFuX%2f3ygqFUSewIRojlI%3d"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjin&label=Profile%20views&color=0e75b6&style=flat" alt="devjin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjin" alt="devjin" /></a> </p>
 
 - 🔭 I’m currently working on **leveraging my Skills**
 
@@ -28,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjin&show_icons=true&locale=en" alt="devjin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjin&" alt="devjin" /></p>
+
+
